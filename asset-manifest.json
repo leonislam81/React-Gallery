@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/leonislam81/React-Gallery/static/css/main.8d31f251.chunk.css",
+    "main.js": "/leonislam81/React-Gallery/static/js/main.d47b1300.chunk.js",
+    "main.js.map": "/leonislam81/React-Gallery/static/js/main.d47b1300.chunk.js.map",
+    "runtime-main.js": "/leonislam81/React-Gallery/static/js/runtime-main.3079be04.js",
+    "runtime-main.js.map": "/leonislam81/React-Gallery/static/js/runtime-main.3079be04.js.map",
+    "static/js/2.e37faba0.chunk.js": "/leonislam81/React-Gallery/static/js/2.e37faba0.chunk.js",
+    "static/js/2.e37faba0.chunk.js.map": "/leonislam81/React-Gallery/static/js/2.e37faba0.chunk.js.map",
+    "static/js/3.c7e2ebc1.chunk.js": "/leonislam81/React-Gallery/static/js/3.c7e2ebc1.chunk.js",
+    "static/js/3.c7e2ebc1.chunk.js.map": "/leonislam81/React-Gallery/static/js/3.c7e2ebc1.chunk.js.map",
+    "index.html": "/leonislam81/React-Gallery/index.html",
+    "static/css/main.8d31f251.chunk.css.map": "/leonislam81/React-Gallery/static/css/main.8d31f251.chunk.css.map",
+    "static/js/2.e37faba0.chunk.js.LICENSE.txt": "/leonislam81/React-Gallery/static/js/2.e37faba0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3079be04.js",
+    "static/js/2.e37faba0.chunk.js",
+    "static/css/main.8d31f251.chunk.css",
+    "static/js/main.d47b1300.chunk.js"
+  ]
+}
