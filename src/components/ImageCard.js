@@ -26,7 +26,7 @@ function ImageCard({ image }) {
         <div className="flex space-x-4">
           {tags.map((tag, index) => (
             <span key={index} className="px-3 py-1 bg-gray-300 rounded-full">
-              #{tag}
+              {tag}
             </span>
           ))}
         </div>
